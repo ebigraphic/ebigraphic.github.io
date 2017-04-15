@@ -59,9 +59,9 @@
 
 	#u110-4
 	{
-		line-height: 47px;
 		font-size: 39px;
 		text-align: center;
+		line-height: 47px;
 		width: 32.04%;
 		margin-left: 0.91%;
 	}
@@ -69,8 +69,8 @@
 	#u119-4
 	{
 		min-height: 156px;
-		line-height: 20px;
 		font-size: 17px;
+		line-height: 20px;
 		margin-top: 16px;
 		width: 100%;
 	}
@@ -123,8 +123,8 @@
 	#u144-4
 	{
 		min-height: 62px;
-		line-height: 44px;
 		font-size: 37px;
+		line-height: 44px;
 		margin-top: 55px;
 		width: 25.08%;
 		left: 37.5%;
@@ -184,8 +184,8 @@
 	#u145-6
 	{
 		min-height: 77px;
-		line-height: 22px;
 		font-size: 16px;
+		line-height: 22px;
 		width: 15.65%;
 		left: 14.75%;
 	}
@@ -193,16 +193,16 @@
 	#u154-6
 	{
 		min-height: 77px;
-		line-height: 22px;
 		font-size: 16px;
+		line-height: 22px;
 		width: 15.65%;
 		left: 41.4%;
 	}
 
 	#u157-4
 	{
-		line-height: 22px;
 		font-size: 16px;
+		line-height: 22px;
 		width: 17.89%;
 		left: 67.15%;
 	}
@@ -268,24 +268,24 @@
 
 	#u160-4
 	{
-		line-height: 22px;
 		font-size: 16px;
+		line-height: 22px;
 		width: 15.65%;
 		left: 15.57%;
 	}
 
 	#u161-8
 	{
-		line-height: 22px;
 		font-size: 16px;
+		line-height: 22px;
 		width: 17.89%;
 		left: 40.87%;
 	}
 
 	#u162-6
 	{
-		line-height: 22px;
 		font-size: 16px;
+		line-height: 22px;
 		width: 20.51%;
 		left: 65.95%;
 	}
@@ -298,8 +298,8 @@
 	#u227-4
 	{
 		min-height: 50px;
-		line-height: 47px;
 		font-size: 39px;
+		line-height: 47px;
 		margin-top: 56px;
 		width: 31.52%;
 		margin-left: 34.29%;
@@ -519,8 +519,8 @@
 	#u762-4
 	{
 		min-height: 105px;
-		line-height: 105px;
 		font-size: 50px;
+		line-height: 105px;
 		top: 483px;
 		left: 103px;
 	}
@@ -528,8 +528,8 @@
 	#u739-4
 	{
 		min-height: 105px;
-		line-height: 105px;
 		font-size: 50px;
+		line-height: 105px;
 		top: 483px;
 		left: 852px;
 	}
@@ -545,8 +545,8 @@
 	#u1311-4
 	{
 		min-height: 24px;
-		line-height: 26px;
 		font-size: 22px;
+		line-height: 26px;
 		margin-top: 16px;
 		width: 62.29%;
 		left: 18.86%;
@@ -571,8 +571,8 @@
 	#u2893-4
 	{
 		min-height: 78px;
-		line-height: 53px;
 		font-size: 44px;
+		line-height: 53px;
 		margin-top: 38px;
 		width: 41.92%;
 		left: 29.05%;
@@ -580,8 +580,8 @@
 
 	#u2899-7
 	{
-		line-height: 30px;
 		font-size: 25px;
+		line-height: 30px;
 		margin-top: 6px;
 		width: 66.1%;
 		left: 16.7%;
@@ -601,8 +601,8 @@
 	#u1314-4
 	{
 		min-height: 75px;
-		line-height: 47px;
 		font-size: 39px;
+		line-height: 47px;
 		margin-top: 49px;
 		width: 54.2%;
 		margin-left: 22.91%;
@@ -632,8 +632,9 @@
 
 	#u2905-4
 	{
-		line-height: 22px;
+		min-height: 9px;
 		font-size: 18px;
+		line-height: 22px;
 		margin-top: 32px;
 		width: 8.09%;
 		left: 16.25%;
@@ -641,8 +642,9 @@
 
 	#u2911-4
 	{
-		line-height: 22px;
+		min-height: 9px;
 		font-size: 18px;
+		line-height: 22px;
 		margin-top: 32px;
 		width: 10.18%;
 		left: 25.3%;
@@ -659,16 +661,18 @@
 
 	#u2914-4
 	{
-		line-height: 22px;
+		min-height: 9px;
 		font-size: 18px;
+		line-height: 22px;
 		margin-top: 2px;
 		width: 26.32%;
 	}
 
 	#u2917-4
 	{
-		line-height: 22px;
+		min-height: 9px;
 		font-size: 18px;
+		line-height: 22px;
 		margin-top: 2px;
 		width: 30.63%;
 		left: 29.19%;
@@ -677,8 +681,8 @@
 	#u2920-4
 	{
 		min-height: 20px;
-		line-height: 22px;
 		font-size: 18px;
+		line-height: 22px;
 		width: 37.09%;
 		left: 62.68%;
 	}
@@ -716,8 +720,8 @@
 	#u1575-4
 	{
 		min-height: 27px;
-		line-height: 16px;
 		font-size: 13px;
+		line-height: 16px;
 		margin-top: 26px;
 		width: 48.33%;
 		margin-left: 19.38%;
@@ -726,8 +730,8 @@
 	#u2931-4
 	{
 		min-height: 19px;
-		line-height: 22px;
 		font-size: 18px;
+		line-height: 22px;
 		margin-top: 30px;
 		width: 7.42%;
 		left: 68.57%;
@@ -736,8 +740,8 @@
 	#u2923-4
 	{
 		min-height: 23px;
-		line-height: 22px;
 		font-size: 18px;
+		line-height: 22px;
 		margin-top: 28px;
 		width: 8.61%;
 		left: 76.95%;
@@ -861,8 +865,8 @@
 	#u2063-4
 	{
 		min-height: 79px;
-		line-height: 59px;
 		font-size: 44px;
+		line-height: 59px;
 		margin-top: 52px;
 		width: 83.03%;
 		margin-left: 9.96%;
@@ -871,8 +875,8 @@
 	#u2028-4
 	{
 		min-height: 79px;
-		line-height: 29px;
 		font-size: 22px;
+		line-height: 29px;
 		margin-top: 14px;
 		width: 83.03%;
 		margin-left: 9.96%;
@@ -900,9 +904,9 @@
 	#u2001-4
 	{
 		min-height: 27px;
-		line-height: 29px;
 		font-size: 24px;
 		text-align: center;
+		line-height: 29px;
 		margin-top: 199px;
 		width: 78.52%;
 		left: 11.3%;
@@ -911,9 +915,9 @@
 	#u2010-4
 	{
 		min-height: 26px;
-		line-height: 29px;
 		font-size: 24px;
 		text-align: center;
+		line-height: 29px;
 		margin-top: 106px;
 		width: 81.27%;
 		left: 10.47%;
@@ -922,9 +926,9 @@
 	#u2013-4
 	{
 		min-height: 24px;
-		line-height: 47px;
 		font-size: 39px;
 		text-align: center;
+		line-height: 47px;
 		margin-top: 144px;
 		width: 83.48%;
 		left: 7.72%;
@@ -933,9 +937,9 @@
 	#u8554-4
 	{
 		min-height: 28px;
-		line-height: 29px;
 		font-size: 24px;
 		text-align: center;
+		line-height: 29px;
 		margin-top: 34px;
 		width: 76.31%;
 		left: 12.95%;
@@ -947,15 +951,15 @@
 		width: 100%;
 	}
 
-	#u1989
+	#u10461-3
 	{
-		height: 532px;
+		min-height: 532px;
 		width: 55.76%;
 	}
 
 	#widgetu1385
 	{
-		height: 336px;
+		height: 392px;
 		margin-top: 124px;
 		left: 6.86%;
 	}
@@ -963,6 +967,14 @@
 	#widgetu1394
 	{
 		width: 392px;
+		left: -1px;
+	}
+
+	#u1397-4
+	{
+		width: 200px;
+		min-height: 20px;
+		line-height: 14px;
 	}
 
 	#u1395-4
@@ -981,14 +993,22 @@
 		width: 378px;
 	}
 
-	#widgetu1394.fld-err-st,#widgetu1386
+	#widgetu1386
+	{
+		width: 392px;
+		left: -1px;
+	}
+
+	#widgetu1394.fld-err-st,#widgetu1386.fld-err-st
 	{
 		width: 392px;
 	}
 
-	#widgetu1386.fld-err-st
+	#u1389-4
 	{
-		width: 392px;
+		width: 200px;
+		min-height: 20px;
+		line-height: 14px;
 	}
 
 	#u1387-4
@@ -1012,12 +1032,42 @@
 		width: 378px;
 	}
 
+	#u1398-4
+	{
+		width: 215px;
+		min-height: 30px;
+		margin-top: 358px;
+		left: 77px;
+	}
+
+	#u1400-4
+	{
+		width: 215px;
+		min-height: 30px;
+		font-size: 12px;
+		line-height: 14px;
+		margin-top: 358px;
+		left: 77px;
+	}
+
+	#u1399-4
+	{
+		width: 154px;
+		min-height: 30px;
+		margin-top: 358px;
+		left: 108px;
+	}
+
+	#widgetu1385.frm-sub-st #u1398-4,#widgetu1385.frm-subm-err-st #u1400-4,#widgetu1385.frm-subm-ok-st #u1399-4
+	{
+		min-height: 34px;
+	}
+
 	#u1401-17
 	{
 		min-height: 31px;
 		width: 147px;
 		background-image: url("../images/u1401-17.png");
-		margin-bottom: -1px;
 		margin-top: 305px;
 	}
 
@@ -1040,6 +1090,7 @@
 	{
 		width: 392px;
 		height: 164px;
+		left: -1px;
 	}
 
 	#widgetu1390.fld-err-st
@@ -1048,9 +1099,17 @@
 		height: 164px;
 	}
 
-	#u1397-4,#u1389-4,#u1393-4
+	#u1393-4
 	{
+		width: 200px;
+		min-height: 20px;
 		line-height: 14px;
+	}
+
+	#widgetu1394.fld-err-st #u1397-4,#widgetu1386.fld-err-st #u1389-4,#widgetu1390.fld-err-st #u1393-4
+	{
+		min-height: 20px;
+		width: 200px;
 	}
 
 	#u1391-4
@@ -1081,9 +1140,9 @@
 	#u1344-4
 	{
 		min-height: 36px;
-		line-height: 29px;
 		font-size: 24px;
 		text-align: left;
+		line-height: 29px;
 		margin-top: 43px;
 		width: 39.05%;
 		left: 6.86%;
