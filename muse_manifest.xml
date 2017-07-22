@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="Portfolio website version 6.com" resolutions="1x" timestamp="1500453562365">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="Portfolio website version 6.com" resolutions="1x" timestamp="1500470160443">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="155791916" ref="index"/>
-    <file name="nomq_index.css" crc="4282321754" ref="index"/>
+    <file name="index.css" crc="367637113" ref="index"/>
+    <file name="nomq_index.css" crc="416050795" ref="index"/>
     <file name="iefonts_index.css" crc="321525473" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -19,7 +19,7 @@
   </folder>
   <folder name="images">
     <file name="background2-crop-u1477.jpg" crc="3949673306" ref="index"/>
-    <file name="about_me_photo-crop-u1680.png" crc="4209031824" ref="index"/>
+    <file name="about_me_photo-crop-u1680.png" crc="3958996525" ref="index"/>
     <file name="presentations-01.svg" crc="479323721" ref="index"/>
     <file name="presentations-01_poster_.png" crc="107338042" ref="index"/>
     <file name="branding-01.svg" crc="3979401307" ref="index"/>
@@ -68,7 +68,7 @@
     <file name="linkedin-01.svg" crc="4183619077" ref="index"/>
     <file name="linkedin-01_poster_.png" crc="349265932" ref="index"/>
     <file name="eway_ministry_logo.jpg" crc="3777358859" seo="true" ref="index"/>
-    <file name="logo-u1543.png" crc="483437528" ref="index"/>
+    <file name="logo-u1543.png" crc="152402504" ref="index"/>
     <file name="tomo logo-u1553.png" crc="4065482141" ref="index"/>
     <file name="my_clients.svg" crc="4284422400" ref="index"/>
     <file name="my_clients_poster_.png" crc="4005283371" ref="index"/>
@@ -83,7 +83,7 @@
     <file name="background2-crop-u14772.jpg" crc="32117355" ref="index"/>
     <file name="about_me_photo.png" crc="4278119008" seo="true" ref="index"/>
     <file name="untitled1_0003_aby_johnson_flyer_design - copy (5)jpg-crop-u25982.jpg" crc="475167867" ref="index"/>
-    <file name="logo-u15432.png" crc="432355589" ref="index"/>
+    <file name="logo-u15432.png" crc="473544748" ref="index"/>
     <file name="tomo logo-u15532.png" crc="263515998" ref="index"/>
     <file name="michael-law-firm-logo-u15332.png" crc="4115094072" ref="index"/>
     <file name="conta bg-crop-u19762.jpg" crc="261474047" ref="index"/>
@@ -100,14 +100,14 @@
     <file name="untitled1_0009_aby_johnson_flyer_design - copy (11)jpg217x140.jpg" crc="4153200345" seo="true" ref="index"/>
     <file name="untitled1_0010_aby_johnson_flyer_design - copyjpg217x140.jpg" crc="4160738837" seo="true" ref="index"/>
     <file name="untitled1_0011_aby_johnson_flyer_designjpg215x140.jpg" crc="3826694711" seo="true" ref="index"/>
-    <file name="logo-u15433.png" crc="4013179975" ref="index"/>
+    <file name="logo-u15433.png" crc="4166019151" ref="index"/>
     <file name="tomo logo.jpg" crc="4163460651" seo="true" ref="index"/>
     <file name="michael-law-firm-logo-u15333.png" crc="4191477183" ref="index"/>
     <file name="conta bg-u1976.png" crc="3970733466" ref="index"/>
     <file name="background2-crop-u14774.jpg" crc="425881444" ref="index"/>
-    <file name="about_me_photo-u1680.png" crc="3887654429" ref="index"/>
+    <file name="about_me_photo-u1680.png" crc="475188557" ref="index"/>
     <file name="untitled1_0003_aby_johnson_flyer_design - copy (5)jpg-crop-u25984.jpg" crc="87609951" ref="index"/>
-    <file name="logo-u15434.png" crc="97764686" ref="index"/>
+    <file name="logo-u15434.png" crc="4288984037" ref="index"/>
     <file name="michael-law-firm-logo-u15334.png" crc="192386670" ref="index"/>
     <file name="conta bg-u19762.png" crc="386095322" ref="index"/>
     <file name="background2-crop-u14775.jpg" crc="3797307127" ref="index"/>
@@ -161,7 +161,7 @@
     <file name="logo-u15439.png" crc="4136180464" ref="index"/>
     <file name="tomo logo-u15533.png" crc="4008782169" ref="index"/>
     <file name="background2-crop-u14779.jpg" crc="3866000480" ref="index"/>
-    <file name="about_me_photo-crop-u16802.png" crc="326540811" ref="index"/>
+    <file name="about_me_photo-crop-u16802.png" crc="3784832908" ref="index"/>
     <file name="untitled1_0002_aby_johnson_flyer_design - copy (4)jpg-crop-u25786.jpg" crc="4068617698" ref="index"/>
     <file name="untitled1_0003_aby_johnson_flyer_design - copy (5)jpg-crop-u259810.jpg" crc="149461640" ref="index"/>
     <file name="conta bg-u19768.png" crc="134931496" ref="index"/>
@@ -244,5 +244,5 @@
     <file name="conta bg-u197615.png" crc="34902040" ref="index"/>
     <file name="tomo logo-u155311.png" crc="4046646459" ref="index"/>
   </folder>
-  <file name="index.html" crc="236117624" seo="true" mt="1500453405295" redirect="true"/>
+  <file name="index.html" crc="304551449" seo="true" mt="1500469979345" redirect="true"/>
 </manifest>
