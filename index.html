@@ -19,6 +19,44 @@
   <link rel="stylesheet" type="text/css" href="css/nomq_index.css?416050795" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- Other scripts -->
+  <style>
+  #emailform input, textarea {
+    font-size: 1.1em;
+    font-family: 'proxima-nova-soft', sans-serif;
+    border: 1px solid #ddd;
+    background: #fff;
+    padding: 0.4em;
+    transition: all 0.3s ease-in-out;
+    width: 100%;
+}
+
+#emailform form input, form textarea {
+    margin-bottom: 0.5em;
+}
+
+#emailform button, input, select, textarea {
+    font-family: inherit;
+    font-size: 100%;
+    margin: 0;
+    vertical-align: baseline;
+}
+
+#emailform button, input {
+    line-height: normal;
+}
+
+#emailform button, a.button {
+    font-size: 1em;
+    text-transform: uppercase;
+    font-weight: 600;
+    border: 2px solid steelblue;
+    color: steelblue;
+    background: transparent;
+    line-height: 1em;
+    padding: 0.6em 0.9em;
+    transition: all 0.3s ease-in-out;
+}
+  </style>
   <script type="text/javascript">
    document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 var __adobewebfontsappname__ = "muse";
@@ -376,7 +414,7 @@ var __adobewebfontsappname__ = "muse";
        <div class="clearfix colelem shared_content" id="pu10461-3" data-content-guid="pu10461-3_content"><!-- group -->
         <div class="clearfix grpelem shared_content" id="u10461-3" data-content-guid="u10461-3_content" ><!-- content -->
 		<p style="text-align: center;color:#7E7E7E;font-size:20px;margin: 44px 0px 17px;"> Leave me a message </p>
-         <div style="padding:0px 45px 0 32px">
+         <div id="emailform" style="padding:0px 45px 0 32px">
 			<form method="POST" action="https://formspree.io/abyjohnson@yahoo.com">
 <div class="form-group">
 <label>Name</label>
@@ -391,7 +429,8 @@ var __adobewebfontsappname__ = "muse";
 <textarea name="message" class="form-control" rows="5"></textarea>
 </div>
 <div class="form-group">
-<input type="submit" value="send" class="btn btn-primary btn-lg">
+<!--<input type="submit" value="send" class="btn btn-primary btn-lg">-->
+<button type="submit">Send</button>
 </div>
 </form>
 		 </div>
